@@ -10,7 +10,6 @@
 #include <stdint.h>
 #include <memory>
 #include <Ws2tcpip.h>
-#include <iostream>
 
 class MulticastSender
 {
